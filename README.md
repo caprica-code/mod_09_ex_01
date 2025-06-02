@@ -32,7 +32,3 @@ A documentação incluída neste repositório descreve com clareza todas as etap
 ## 📚 Dicionário de Variáveis
 
 O repositório também disponibiliza um **dicionário com a descrição completa** de todas as variáveis contidas nas bases de dados, tanto as **originais** quanto as **geradas** no processo de enriquecimento.
-
----
-
-*Sinta-se à vontade para adaptar este conteúdo conforme as necessidades específicas do seu projeto ou incluir links diretos para os dados, visualizações ou documentação técnica.*
